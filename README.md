@@ -1,99 +1,105 @@
 # 📊 Interactive Sales Dashboard (Power BI)
 
 This repository contains an **Interactive Sales Dashboard** built using **Power BI**.  
-It provides deep insights into **Sales, Cost, Profit, Category-wise performance, State-wise sales**, and **Brand-wise contribution** for the years **2020–2022**.
-
-The dashboard helps users understand key business metrics through clear visualizations and interactive filters.
+It provides insights into **Sales, Cost, Profit, Category-wise performance, State-level sales**, and **Brand-wise contribution** for the years **2020–2022**.
 
 ---
 
-## 🚀 **Key Features**
+## 🚀 Key Features
 
 ### 🔹 1. Category-wise Sales Quantity  
-Bar chart visualizing sales quantities across all product categories like Monitor, CPU, Mouse, SSD, RAM, etc.
+Bar chart visualizing sales quantities across categories such as **Monitor, CPU, Mouse, SSD, RAM**, and more.
 
 ### 🔹 2. Supervisor Filter Panel  
-Slicer with supervisor images for easy filtering of dashboard visuals.
+Image-based slicer for quick filtering based on supervisors.
 
 ### 🔹 3. State-wise Sales Map  
-Interactive map showing sales distribution across India.
+Interactive map displaying India’s region-wise sales.
 
 ### 🔹 4. Brand-wise Contribution  
-Pie chart displaying percentage contribution of brands like Intel, Samsung, Dell, Acer, Gigabyte, MSI and more.
+Pie chart showcasing the contribution of popular brands such as **Intel**, **Samsung**, **Nvidia**, **Dell**, **Acer**, **Gigabyte**, and others.
 
-### 🔹 5. Highlight Performance Cards  
-- **Total Sales**
-- **Total Cost**
-- **Total Profit**
-- **Total Quantity**
-- **Transactions**
+### 🔹 5. Interactive KPI Cards  
+- Total Sales  
+- Total Cost  
+- Total Profit  
+- Total Quantity  
+- Total Transactions  
 
-All key metrics updated dynamically based on filters.
-
----
-
-## 📁 **Files in This Repository**
-
-| File Name | Description |
-|----------|-------------|
-| `sales.pbix` | Main Power BI Dashboard file |
-| `Complete_Techno_Sales_Data-2.xlsx` | Dataset used for creating the dashboard |
-| `dashboard power bi image.png` | Preview image of the dashboard |
-| `README.md` | Project documentation |
+All KPIs update dynamically with slicers.
 
 ---
 
-## 📸 **Dashboard Preview**
+## 📸 Dashboard Preview
 
 ![Dashboard Preview](dashboard%20power%20bi%20image.png)
 
 ---
 
-## 🛠️ **Tools & Technologies Used**
+## 🎥 Dashboard Video Demo
+
+Click the link below to watch the full dashboard demo:
+
+👉 **Video Demo (Streamable Link):**  
+*[Paste your Streamable video link here](https://streamable.com/9i03ex)*
+
+---
+
+## 📁 Files in This Repository
+
+| File Name | Description |
+|----------|-------------|
+| `sales.pbix` | Main Power BI dashboard file |
+| `Complete_Techno_Sales_Data-2.xlsx` | Excel dataset used to create the dashboard |
+| `dashboard power bi image.png` | Dashboard preview image |
+| `README.md` | Project documentation |
+
+---
+
+## 🛠️ Tools & Technologies Used
 
 - **Power BI Desktop**
 - **Power Query**
 - **DAX (Data Analysis Expressions)**
 - **Excel Dataset**
-- **Interactive Slicers & Cards**
+- **Interactive Filters & Visuals**
 
 ---
 
-## 📊 **Key Insights from Dashboard**
+## 📊 Key Insights
 
-- Top-selling categories include **Monitor, CPU, Mouse, Graphic Card, HDD**.
-- Highest sales contribution by **Intel, Samsung, Nvidia**.
-- Map visualization shows strongest markets in major Indian states.
-- Display of real-time Sales, Cost & Profit KPIs for decision-makers.
-
----
-
-## 📦 **How to Use**
-
-1. Download the file **`sales.pbix`**
-2. Open it in **Power BI Desktop**
-3. Load the dataset automatically (already embedded)
-4. Use filters to explore interactive insights
+- Top-performing categories: **Monitor, CPU, Mouse, HDD, SSD**
+- Highest brand contributions from: **Intel, Samsung, Nvidia**
+- Strongest sales regions visible through map insights
+- KPIs provide dynamic real-time analysis for business decisions
 
 ---
 
-## 🌟 **Future Enhancements**
+## 📦 How to Open the Dashboard
 
-- Adding year filter (2020–2022)
-- Adding Profit Margin visuals
-- Adding Drillthrough pages
-- Adding full automation with Power BI Service
+1. Download **`sales.pbix`**
+2. Open using **Power BI Desktop**
+3. Dataset will auto-load (already embedded)
+4. Use slicers to explore insights interactively
 
 ---
 
-## 👩‍💻 **Created By**
+## 🌟 Future Enhancements
+
+- Year filter (2020–2022)
+- Profit Margin & ROAS visuals
+- Drill-through detail pages
+- Fully automated publishing using Power BI Service
+
+---
+
+## 👩‍💻 Created By
 
 **Darpana Chauhan**  
 Aspiring Data Scientist & Power BI Developer
 
 ---
 
-## ⭐ **Support**
+## ⭐ Support
 
-If you like this dashboard, don’t forget to **star ⭐ this repository**!
-
+If you found this dashboard helpful, consider giving the repository a **star ⭐**!
