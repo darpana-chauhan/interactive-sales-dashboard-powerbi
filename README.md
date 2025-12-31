@@ -93,13 +93,13 @@ Click the link below to watch the full dashboard demo:
 
 ---
 
-## 👩‍💻 Created By
+## 👩‍💻 Author
 
 **Darpana Chauhan**  
-Aspiring Data Scientist & Power BI Developer
+Aspiring Data Scientist | BCA Student  
+GitHub: https://github.com/darpana-chauhan
 
 ---
 
-## ⭐ Support
+⭐ *If you find this project useful, feel free to star the repository!*
 
-If you found this dashboard helpful, consider giving the repository a **star ⭐**!
